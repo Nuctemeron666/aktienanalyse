@@ -1,0 +1,2 @@
+# aktienanalyse
+stock analyzes 
